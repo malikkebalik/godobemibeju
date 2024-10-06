@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://godobemibeju.pages.dev/sitemap.xml
